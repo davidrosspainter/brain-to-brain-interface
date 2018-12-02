@@ -1,0 +1,7 @@
+C:\Users\labpc\Desktop\BCI.speller.reboot4\Engine3\toolboxes\interComputerBuffer.4\bufferDRP\New folder\GetLocalIPAddress\GetLocalIPAddress\bin\Debug\GetLocalIPAddress.exe.config
+C:\Users\labpc\Desktop\BCI.speller.reboot4\Engine3\toolboxes\interComputerBuffer.4\bufferDRP\New folder\GetLocalIPAddress\GetLocalIPAddress\bin\Debug\GetLocalIPAddress.exe
+C:\Users\labpc\Desktop\BCI.speller.reboot4\Engine3\toolboxes\interComputerBuffer.4\bufferDRP\New folder\GetLocalIPAddress\GetLocalIPAddress\bin\Debug\GetLocalIPAddress.pdb
+C:\Users\labpc\Desktop\BCI.speller.reboot4\Engine3\toolboxes\interComputerBuffer.4\bufferDRP\New folder\GetLocalIPAddress\GetLocalIPAddress\obj\Debug\GetLocalIPAddress.csprojAssemblyReference.cache
+C:\Users\labpc\Desktop\BCI.speller.reboot4\Engine3\toolboxes\interComputerBuffer.4\bufferDRP\New folder\GetLocalIPAddress\GetLocalIPAddress\obj\Debug\GetLocalIPAddress.csproj.CoreCompileInputs.cache
+C:\Users\labpc\Desktop\BCI.speller.reboot4\Engine3\toolboxes\interComputerBuffer.4\bufferDRP\New folder\GetLocalIPAddress\GetLocalIPAddress\obj\Debug\GetLocalIPAddress.exe
+C:\Users\labpc\Desktop\BCI.speller.reboot4\Engine3\toolboxes\interComputerBuffer.4\bufferDRP\New folder\GetLocalIPAddress\GetLocalIPAddress\obj\Debug\GetLocalIPAddress.pdb
